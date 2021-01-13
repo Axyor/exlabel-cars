@@ -1,0 +1,12 @@
+{
+  "name": "label-cars",
+  "displayName": "label-cars",
+  "expo": {
+    "name": "label-cars",
+    "slug": "label-cars",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
